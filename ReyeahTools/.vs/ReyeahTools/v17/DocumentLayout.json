@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "E:\\Github\\ReyeahTools\\ReyeahTools\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80A6C2B7-8C1E-4C69-87B4-B91A95F05546}|ReyeahTools.csproj|e:\\github\\reyeahtools\\reyeahtools\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A6C2B7-8C1E-4C69-87B4-B91A95F05546}|ReyeahTools.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AAEDF10-4B7D-496A-8660-7693DB151B84}|..\\ReyeahWin\\ReyeahWin.csproj|e:\\github\\reyeahtools\\reyeahwin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAEDF10-4B7D-496A-8660-7693DB151B84}|..\\ReyeahWin\\ReyeahWin.csproj|e:\\github\\reyeahtools\\reyeahwin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CD0134-8103-4030-A0F4-4209918626FF}|ReyeahTools.csproj|e:\\github\\reyeahtools\\reyeahtools\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CD0134-8103-4030-A0F4-4209918626FF}|ReyeahTools.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CD0134-8103-4030-A0F4-4209918626FF}|ReyeahTools.csproj|e:\\github\\reyeahtools\\reyeahtools\\camera\\cameracontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CD0134-8103-4030-A0F4-4209918626FF}|ReyeahTools.csproj|solutionrelative:camera\\cameracontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ReyeahTools||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CD0134-8103-4030-A0F4-4209918626FF}|ReyeahTools.csproj|e:\\github\\reyeahtools\\reyeahtools\\camera\\edsdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CD0134-8103-4030-A0F4-4209918626FF}|ReyeahTools.csproj|solutionrelative:camera\\edsdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CD0134-8103-4030-A0F4-4209918626FF}|ReyeahTools.csproj|e:\\github\\reyeahtools\\reyeahtools\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,14 +75,81 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Github\\ReyeahTools\\ReyeahWin\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\ReyeahWin\\MainWindow.xaml",
+              "ToolTip": "E:\\Github\\ReyeahTools\\ReyeahWin\\MainWindow.xaml",
+              "RelativeToolTip": "..\\ReyeahWin\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T12:11:54.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Github\\ReyeahTools\\ReyeahWin\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ReyeahWin\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Github\\ReyeahTools\\ReyeahWin\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\ReyeahWin\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:11:54.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReyeahTools",
+              "DocumentMoniker": "E:\\Github\\ReyeahTools\\ReyeahTools\\ReyeahTools.csproj",
+              "RelativeDocumentMoniker": "ReyeahTools.csproj",
+              "ToolTip": "E:\\Github\\ReyeahTools\\ReyeahTools\\ReyeahTools.csproj",
+              "RelativeToolTip": "ReyeahTools.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-06T12:08:19.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraController .cs",
+              "DocumentMoniker": "E:\\Github\\ReyeahTools\\ReyeahTools\\Camera\\CameraController .cs",
+              "RelativeDocumentMoniker": "Camera\\CameraController .cs",
+              "ToolTip": "E:\\Github\\ReyeahTools\\ReyeahTools\\Camera\\CameraController .cs",
+              "RelativeToolTip": "Camera\\CameraController .cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAjwGQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:59:00.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EDSDK.cs",
+              "DocumentMoniker": "E:\\Github\\ReyeahTools\\ReyeahTools\\Camera\\EDSDK.cs",
+              "RelativeDocumentMoniker": "Camera\\EDSDK.cs",
+              "ToolTip": "E:\\Github\\ReyeahTools\\ReyeahTools\\Camera\\EDSDK.cs",
+              "RelativeToolTip": "Camera\\EDSDK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:58:00.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Github\\ReyeahTools\\ReyeahTools\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Github\\ReyeahTools\\ReyeahTools\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvykAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T11:45:58.33Z",
+              "WhenOpened": "2025-07-06T11:52:16.672Z",
               "EditorCaption": ""
             }
           ]

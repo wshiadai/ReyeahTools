@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{80A6C2B7-8C1E-4C69-87B4-B91A95F05546}</ProjectGuid>
+    <ProjectGuid>{A2CD0134-8103-4030-A0F4-4209918626FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ReyeahTools</RootNamespace>
     <AssemblyName>ReyeahTools</AssemblyName>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Camera\CameraController .cs" />
+    <Compile Include="Camera\EDSDK.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
